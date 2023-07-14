@@ -1,0 +1,8 @@
+beautifulsoup4
+Levenshtein
+requests
+mutagen
+pytest
+lxml
+html5lib
+python-Levenshtein

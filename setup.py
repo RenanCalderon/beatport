@@ -7,6 +7,7 @@ setup(
     author='Renan Calderon',
     author_email='renan.cnv@gmail.com',
     packages=find_packages(),
+    include_package_data=True,
     install_requires=[
         'beautifulsoup4',
         'requests',
